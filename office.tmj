@@ -482,14 +482,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsiRoom",
+                 "name":"openWebsite",
                  "type":"string",
-                 "value":"cyber-auditorio"
-                }, 
-                {
-                 "name":"jitsiTrigger",
-                 "type":"string",
-                 "value":"onaction"
+                 "value":"https:\/\/workv.sulamerica.br:8443\/cyber-auditorio"
                 }],
          "type":"tilelayer",
          "visible":false,
