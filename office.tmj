@@ -326,14 +326,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsiRoom",
+                 "name":"openWebsite",
                  "type":"string",
-                 "value":"cyber-one"
-                }, 
-                {
-                 "name":"jitsiTrigger",
-                 "type":"string",
-                 "value":"onaction"
+                 "value":"https:\/\/workv.sulamerica.br:8443\/cyber-room-1"
                 }],
          "type":"tilelayer",
          "visible":false,
@@ -378,14 +373,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsiRoom",
+                 "name":"openWebsite",
                  "type":"string",
-                 "value":"cyber-two"
-                }, 
-                {
-                 "name":"jitsiTrigger",
-                 "type":"string",
-                 "value":"onaction"
+                 "value":"https:\/\/workv.sulamerica.br:8443\/cyber-room-2"
                 }],
          "type":"tilelayer",
          "visible":false,
@@ -430,14 +420,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsiRoom",
+                 "name":"openWebsite",
                  "type":"string",
-                 "value":"cyber-three"
-                }, 
-                {
-                 "name":"jitsiTrigger",
-                 "type":"string",
-                 "value":"onaction"
+                 "value":"https:\/\/workv.sulamerica.br:8443\/cyber-room-3"
                 }],
          "type":"tilelayer",
          "visible":false,
