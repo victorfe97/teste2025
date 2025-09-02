@@ -329,6 +329,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/workv.sulamerica.br:8443\/cyber-room-1"
+                }, 
+                {
+                 "name":"openWebsitePolicy",
+                 "type":"string",
+                 "value":"camera; microphone; fullscreen; display-capture; autoplay"
                 }],
          "type":"tilelayer",
          "visible":false,
@@ -376,6 +381,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/workv.sulamerica.br:8443\/cyber-room-2"
+                }, 
+                {
+                 "name":"openWebsitePolicy",
+                 "type":"string",
+                 "value":"camera; microphone; fullscreen; display-capture; autoplay"
                 }],
          "type":"tilelayer",
          "visible":false,
@@ -475,6 +485,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/workv.sulamerica.br:8443\/cyber-auditorio"
+                }, 
+                {
+                 "name":"openWebsitePolicy",
+                 "type":"string",
+                 "value":"camera; microphone; fullscreen; display-capture; autoplay"
                 }],
          "type":"tilelayer",
          "visible":false,
