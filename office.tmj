@@ -328,7 +328,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/workv.sulamerica.br:8443\/cyber-room-1"
+                 "value":"https:\/\/workv.sulamerica.com.br:8443\/cyber-room-1"
                 }, 
                 {
                  "name":"openWebsitePolicy",
@@ -380,7 +380,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/workv.sulamerica.br:8443\/cyber-room-2"
+                 "value":"https:\/\/workv.sulamerica.com.br:8443\/cyber-room-2"
                 }, 
                 {
                  "name":"openWebsitePolicy",
@@ -432,7 +432,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/workv.sulamerica.br:8443\/cyber-room-3"
+                 "value":"https:\/\/workv.sulamerica.com.br:8443\/cyber-room-3"
                 }, 
                 {
                  "name":"openWebsitePolicy",
@@ -484,7 +484,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/workv.sulamerica.br:8443\/cyber-auditorio"
+                 "value":"https:\/\/workv.sulamerica.com.br:8443\/cyber-auditorio"
                 }, 
                 {
                  "name":"openWebsitePolicy",
